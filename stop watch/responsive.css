@@ -1,0 +1,14 @@
+@media screen and (max-width:600px) {
+
+
+    h1{
+        font-size: 3em;
+        width: 60%;
+    }
+
+    .main-box{
+        width: 80%;
+        height: 25vh;
+    }
+    
+}
